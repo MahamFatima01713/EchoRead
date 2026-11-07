@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+python-multipart
+PyMuPDF
+trafilatura
+beautifulsoup4
+requests
+edge-tts
